@@ -13,3 +13,4 @@ A basic password generator app written in c# with wpf.
 Build with Visual Studio 2022
 
 ## Screenshot
+![App Screenshot](Assets/Screenshot.png)
